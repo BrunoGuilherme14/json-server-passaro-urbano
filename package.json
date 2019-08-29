@@ -1,0 +1,23 @@
+{
+  "name": "json-server-passaro-urbano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoGuilherme14/json-server-passaro-urbano.git"
+  },
+  "author": "Bruno Guilherme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoGuilherme14/json-server-passaro-urbano/issues"
+  },
+  "homepage": "https://github.com/BrunoGuilherme14/json-server-passaro-urbano#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
